@@ -1,0 +1,395 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{382CCDE4-F0F9-4633-93D2-6D21BFDB0A72}|CrudUsingDotNet8\\CrudUsingDotNet8.csproj|g:\\.net 2024\\must folder\\crudusingdotnet8\\crudusingdotnet8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{382CCDE4-F0F9-4633-93D2-6D21BFDB0A72}|CrudUsingDotNet8\\CrudUsingDotNet8.csproj|solutionrelative:crudusingdotnet8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996FB281-D43C-4D1A-9E9C-9A357D20FCE6}|IService\\IService.csproj|g:\\.net 2024\\must folder\\crudusingdotnet8\\iservice\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996FB281-D43C-4D1A-9E9C-9A357D20FCE6}|IService\\IService.csproj|solutionrelative:iservice\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3957DD3E-FB6E-47BB-AE3A-AACB3EE83EEE}|Service\\Service.csproj|g:\\.net 2024\\must folder\\crudusingdotnet8\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3957DD3E-FB6E-47BB-AE3A-AACB3EE83EEE}|Service\\Service.csproj|solutionrelative:service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3957DD3E-FB6E-47BB-AE3A-AACB3EE83EEE}|Service\\Service.csproj|g:\\.net 2024\\must folder\\crudusingdotnet8\\service\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3957DD3E-FB6E-47BB-AE3A-AACB3EE83EEE}|Service\\Service.csproj|solutionrelative:service\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3957DD3E-FB6E-47BB-AE3A-AACB3EE83EEE}|Service\\Service.csproj|g:\\.net 2024\\must folder\\crudusingdotnet8\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3957DD3E-FB6E-47BB-AE3A-AACB3EE83EEE}|Service\\Service.csproj|solutionrelative:service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382CCDE4-F0F9-4633-93D2-6D21BFDB0A72}|CrudUsingDotNet8\\CrudUsingDotNet8.csproj|g:\\.net 2024\\must folder\\crudusingdotnet8\\crudusingdotnet8\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{382CCDE4-F0F9-4633-93D2-6D21BFDB0A72}|CrudUsingDotNet8\\CrudUsingDotNet8.csproj|solutionrelative:crudusingdotnet8\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382CCDE4-F0F9-4633-93D2-6D21BFDB0A72}|CrudUsingDotNet8\\CrudUsingDotNet8.csproj|g:\\.net 2024\\must folder\\crudusingdotnet8\\crudusingdotnet8\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{382CCDE4-F0F9-4633-93D2-6D21BFDB0A72}|CrudUsingDotNet8\\CrudUsingDotNet8.csproj|solutionrelative:crudusingdotnet8\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382CCDE4-F0F9-4633-93D2-6D21BFDB0A72}|CrudUsingDotNet8\\CrudUsingDotNet8.csproj|g:\\.net 2024\\must folder\\crudusingdotnet8\\crudusingdotnet8\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{382CCDE4-F0F9-4633-93D2-6D21BFDB0A72}|CrudUsingDotNet8\\CrudUsingDotNet8.csproj|solutionrelative:crudusingdotnet8\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382CCDE4-F0F9-4633-93D2-6D21BFDB0A72}|CrudUsingDotNet8\\CrudUsingDotNet8.csproj|g:\\.net 2024\\must folder\\crudusingdotnet8\\crudusingdotnet8\\viewmodel\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{382CCDE4-F0F9-4633-93D2-6D21BFDB0A72}|CrudUsingDotNet8\\CrudUsingDotNet8.csproj|solutionrelative:crudusingdotnet8\\viewmodel\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382CCDE4-F0F9-4633-93D2-6D21BFDB0A72}|CrudUsingDotNet8\\CrudUsingDotNet8.csproj|g:\\.net 2024\\must folder\\crudusingdotnet8\\crudusingdotnet8\\viewmodel\\courserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{382CCDE4-F0F9-4633-93D2-6D21BFDB0A72}|CrudUsingDotNet8\\CrudUsingDotNet8.csproj|solutionrelative:crudusingdotnet8\\viewmodel\\courserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382CCDE4-F0F9-4633-93D2-6D21BFDB0A72}|CrudUsingDotNet8\\CrudUsingDotNet8.csproj|g:\\.net 2024\\must folder\\crudusingdotnet8\\crudusingdotnet8\\viewmodel\\enrollmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{382CCDE4-F0F9-4633-93D2-6D21BFDB0A72}|CrudUsingDotNet8\\CrudUsingDotNet8.csproj|solutionrelative:crudusingdotnet8\\viewmodel\\enrollmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382CCDE4-F0F9-4633-93D2-6D21BFDB0A72}|CrudUsingDotNet8\\CrudUsingDotNet8.csproj|g:\\.net 2024\\must folder\\crudusingdotnet8\\crudusingdotnet8\\crudusingdotnet8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{382CCDE4-F0F9-4633-93D2-6D21BFDB0A72}|CrudUsingDotNet8\\CrudUsingDotNet8.csproj|solutionrelative:crudusingdotnet8\\crudusingdotnet8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996FB281-D43C-4D1A-9E9C-9A357D20FCE6}|IService\\IService.csproj|g:\\.net 2024\\must folder\\crudusingdotnet8\\iservice\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996FB281-D43C-4D1A-9E9C-9A357D20FCE6}|IService\\IService.csproj|solutionrelative:iservice\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996FB281-D43C-4D1A-9E9C-9A357D20FCE6}|IService\\IService.csproj|g:\\.net 2024\\must folder\\crudusingdotnet8\\iservice\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996FB281-D43C-4D1A-9E9C-9A357D20FCE6}|IService\\IService.csproj|solutionrelative:iservice\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996FB281-D43C-4D1A-9E9C-9A357D20FCE6}|IService\\IService.csproj|g:\\.net 2024\\must folder\\crudusingdotnet8\\iservice\\iservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{996FB281-D43C-4D1A-9E9C-9A357D20FCE6}|IService\\IService.csproj|solutionrelative:iservice\\iservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BB780B-A801-4FA5-9D13-CBEBB32510A1}|Presistence\\Presistence.csproj|g:\\.net 2024\\must folder\\crudusingdotnet8\\presistence\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BB780B-A801-4FA5-9D13-CBEBB32510A1}|Presistence\\Presistence.csproj|solutionrelative:presistence\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05AE602-BCF9-4C1C-8814-6386D485A531}|Domain\\Domain.csproj|g:\\.net 2024\\must folder\\crudusingdotnet8\\domain\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05AE602-BCF9-4C1C-8814-6386D485A531}|Domain\\Domain.csproj|solutionrelative:domain\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\Presistence\\Migrations\\20240428080833_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Presistence\\Migrations\\20240428080833_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BB780B-A801-4FA5-9D13-CBEBB32510A1}|Presistence\\Presistence.csproj|g:\\.net 2024\\must folder\\crudusingdotnet8\\presistence\\schoolsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BB780B-A801-4FA5-9D13-CBEBB32510A1}|Presistence\\Presistence.csproj|solutionrelative:presistence\\schoolsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05AE602-BCF9-4C1C-8814-6386D485A531}|Domain\\Domain.csproj|g:\\.net 2024\\must folder\\crudusingdotnet8\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C05AE602-BCF9-4C1C-8814-6386D485A531}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BB780B-A801-4FA5-9D13-CBEBB32510A1}|Presistence\\Presistence.csproj|g:\\.net 2024\\must folder\\crudusingdotnet8\\presistence\\presistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20BB780B-A801-4FA5-9D13-CBEBB32510A1}|Presistence\\Presistence.csproj|solutionrelative:presistence\\presistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382CCDE4-F0F9-4633-93D2-6D21BFDB0A72}|CrudUsingDotNet8\\CrudUsingDotNet8.csproj|g:\\.net 2024\\must folder\\crudusingdotnet8\\crudusingdotnet8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{382CCDE4-F0F9-4633-93D2-6D21BFDB0A72}|CrudUsingDotNet8\\CrudUsingDotNet8.csproj|solutionrelative:crudusingdotnet8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\CrudUsingDotNet8\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CrudUsingDotNet8\\Controllers\\StudentController.cs",
+              "ToolTip": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\CrudUsingDotNet8\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CrudUsingDotNet8\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:11:56.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\CrudUsingDotNet8\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "CrudUsingDotNet8\\Controllers\\CourseController.cs",
+              "ToolTip": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\CrudUsingDotNet8\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "CrudUsingDotNet8\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:12:10.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\CrudUsingDotNet8\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "CrudUsingDotNet8\\Controllers\\EnrollmentController.cs",
+              "ToolTip": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\CrudUsingDotNet8\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "CrudUsingDotNet8\\Controllers\\EnrollmentController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:12:24.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\CrudUsingDotNet8\\Program.cs",
+              "RelativeDocumentMoniker": "CrudUsingDotNet8\\Program.cs",
+              "ToolTip": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\CrudUsingDotNet8\\Program.cs",
+              "RelativeToolTip": "CrudUsingDotNet8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:50:13.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\Service\\CourseService.cs",
+              "RelativeDocumentMoniker": "Service\\CourseService.cs",
+              "ToolTip": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\Service\\CourseService.cs",
+              "RelativeToolTip": "Service\\CourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:10:38.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnrollmentService.cs",
+              "DocumentMoniker": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\Service\\EnrollmentService.cs",
+              "RelativeDocumentMoniker": "Service\\EnrollmentService.cs",
+              "ToolTip": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\Service\\EnrollmentService.cs",
+              "RelativeToolTip": "Service\\EnrollmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:10:39.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "Service\\StudentService.cs",
+              "ToolTip": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\Service\\StudentService.cs",
+              "RelativeToolTip": "Service\\StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:10:41.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\IService\\ICourseService.cs",
+              "RelativeDocumentMoniker": "IService\\ICourseService.cs",
+              "ToolTip": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\IService\\ICourseService.cs",
+              "RelativeToolTip": "IService\\ICourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:10:51.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\CrudUsingDotNet8\\ViewModel\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "CrudUsingDotNet8\\ViewModel\\StudentViewModel.cs",
+              "ToolTip": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\CrudUsingDotNet8\\ViewModel\\StudentViewModel.cs",
+              "RelativeToolTip": "CrudUsingDotNet8\\ViewModel\\StudentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:11:29.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseRequest.cs",
+              "DocumentMoniker": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\CrudUsingDotNet8\\ViewModel\\CourseRequest.cs",
+              "RelativeDocumentMoniker": "CrudUsingDotNet8\\ViewModel\\CourseRequest.cs",
+              "ToolTip": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\CrudUsingDotNet8\\ViewModel\\CourseRequest.cs",
+              "RelativeToolTip": "CrudUsingDotNet8\\ViewModel\\CourseRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:11:27.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnrollmentViewModel.cs",
+              "DocumentMoniker": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\CrudUsingDotNet8\\ViewModel\\EnrollmentViewModel.cs",
+              "RelativeDocumentMoniker": "CrudUsingDotNet8\\ViewModel\\EnrollmentViewModel.cs",
+              "ToolTip": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\CrudUsingDotNet8\\ViewModel\\EnrollmentViewModel.cs",
+              "RelativeToolTip": "CrudUsingDotNet8\\ViewModel\\EnrollmentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:11:28.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEnrollmentService.cs",
+              "DocumentMoniker": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\IService\\IEnrollmentService.cs",
+              "RelativeDocumentMoniker": "IService\\IEnrollmentService.cs",
+              "ToolTip": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\IService\\IEnrollmentService.cs",
+              "RelativeToolTip": "IService\\IEnrollmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:10:50.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\IService\\IStudentService.cs",
+              "RelativeDocumentMoniker": "IService\\IStudentService.cs",
+              "ToolTip": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\IService\\IStudentService.cs",
+              "RelativeToolTip": "IService\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:10:42.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\Presistence\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Presistence\\Repository\\Repository.cs",
+              "ToolTip": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\Presistence\\Repository\\Repository.cs",
+              "RelativeToolTip": "Presistence\\Repository\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:09:09.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\Domain\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\IRepository\\IRepository.cs",
+              "ToolTip": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\Domain\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "Domain\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:09:47.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240428080833_init.cs",
+              "DocumentMoniker": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\Presistence\\Migrations\\20240428080833_init.cs",
+              "RelativeDocumentMoniker": "Presistence\\Migrations\\20240428080833_init.cs",
+              "ToolTip": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\Presistence\\Migrations\\20240428080833_init.cs",
+              "RelativeToolTip": "Presistence\\Migrations\\20240428080833_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:08:33.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SchoolSystemDbContext.cs",
+              "DocumentMoniker": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\Presistence\\SchoolSystemDbContext.cs",
+              "RelativeDocumentMoniker": "Presistence\\SchoolSystemDbContext.cs",
+              "ToolTip": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\Presistence\\SchoolSystemDbContext.cs",
+              "RelativeToolTip": "Presistence\\SchoolSystemDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:00:31.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\CrudUsingDotNet8\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudUsingDotNet8\\appsettings.json",
+              "ToolTip": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\CrudUsingDotNet8\\appsettings.json",
+              "RelativeToolTip": "CrudUsingDotNet8\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-28T07:56:06.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Presistence.csproj",
+              "DocumentMoniker": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\Presistence\\Presistence.csproj",
+              "RelativeDocumentMoniker": "Presistence\\Presistence.csproj",
+              "ToolTip": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\Presistence\\Presistence.csproj",
+              "RelativeToolTip": "Presistence\\Presistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-28T07:55:31.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-28T07:51:30.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IService",
+              "DocumentMoniker": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\IService\\IService.csproj",
+              "RelativeDocumentMoniker": "IService\\IService.csproj",
+              "ToolTip": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\IService\\IService.csproj",
+              "RelativeToolTip": "IService\\IService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-28T08:10:34.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CrudUsingDotNet8",
+              "DocumentMoniker": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\CrudUsingDotNet8\\CrudUsingDotNet8.csproj",
+              "RelativeDocumentMoniker": "CrudUsingDotNet8\\CrudUsingDotNet8.csproj",
+              "ToolTip": "G:\\.NET 2024\\Must Folder\\CrudUsingDotNet8\\CrudUsingDotNet8\\CrudUsingDotNet8.csproj",
+              "RelativeToolTip": "CrudUsingDotNet8\\CrudUsingDotNet8.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-28T08:11:20.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Domain\bin\Debug\net8.0\Domain.deps.json
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Domain\bin\Debug\net8.0\Domain.dll
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Domain\bin\Debug\net8.0\Domain.pdb
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Domain\obj\Debug\net8.0\Domain.dll
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Domain\obj\Debug\net8.0\refint\Domain.dll
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Domain\obj\Debug\net8.0\Domain.pdb
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Domain\obj\Debug\net8.0\ref\Domain.dll

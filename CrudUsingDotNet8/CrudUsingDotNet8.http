@@ -1,0 +1,6 @@
+@CrudUsingDotNet8_HostAddress = http://localhost:5190
+
+GET {{CrudUsingDotNet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

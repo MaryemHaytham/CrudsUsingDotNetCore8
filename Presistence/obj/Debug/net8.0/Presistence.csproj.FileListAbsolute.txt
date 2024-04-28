@@ -1,0 +1,17 @@
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Presistence\bin\Debug\net8.0\Presistence.deps.json
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Presistence\bin\Debug\net8.0\Presistence.runtimeconfig.json
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Presistence\bin\Debug\net8.0\Presistence.dll
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Presistence\bin\Debug\net8.0\Presistence.pdb
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Presistence\bin\Debug\net8.0\Domain.dll
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Presistence\bin\Debug\net8.0\Domain.pdb
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Presistence\obj\Debug\net8.0\Presistence.csproj.AssemblyReference.cache
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Presistence\obj\Debug\net8.0\Presistence.GeneratedMSBuildEditorConfig.editorconfig
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Presistence\obj\Debug\net8.0\Presistence.AssemblyInfoInputs.cache
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Presistence\obj\Debug\net8.0\Presistence.AssemblyInfo.cs
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Presistence\obj\Debug\net8.0\Presistence.csproj.CoreCompileInputs.cache
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Presistence\obj\Debug\net8.0\Presiste.28707F9F.Up2Date
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Presistence\obj\Debug\net8.0\Presistence.dll
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Presistence\obj\Debug\net8.0\refint\Presistence.dll
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Presistence\obj\Debug\net8.0\Presistence.pdb
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Presistence\obj\Debug\net8.0\Presistence.genruntimeconfig.cache
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\Presistence\obj\Debug\net8.0\ref\Presistence.dll

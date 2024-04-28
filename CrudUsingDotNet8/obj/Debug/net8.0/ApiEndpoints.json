@@ -1,0 +1,218 @@
+[
+  {
+    "ContainingType": "CrudUsingDotNet8.Controllers.CourseController",
+    "Method": "GetAllCourses",
+    "RelativePath": "api/Course",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudUsingDotNet8.Controllers.CourseController",
+    "Method": "Post",
+    "RelativePath": "api/Course",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "course",
+        "Type": "Cruds.ViewModel.CourseRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudUsingDotNet8.Controllers.CourseController",
+    "Method": "GetById",
+    "RelativePath": "api/Course/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudUsingDotNet8.Controllers.CourseController",
+    "Method": "Put",
+    "RelativePath": "api/Course/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "course",
+        "Type": "Cruds.ViewModel.CourseRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudUsingDotNet8.Controllers.CourseController",
+    "Method": "Delete",
+    "RelativePath": "api/Course/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudUsingDotNet8.Controllers.EnrollmentController",
+    "Method": "GetAllEnrollment",
+    "RelativePath": "api/Enrollment",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudUsingDotNet8.Controllers.EnrollmentController",
+    "Method": "CreateEnrollment",
+    "RelativePath": "api/Enrollment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "enrollmentViewModel",
+        "Type": "Cruds.ViewModel.EnrollmentViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudUsingDotNet8.Controllers.EnrollmentController",
+    "Method": "GetEnrollmentById",
+    "RelativePath": "api/Enrollment/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudUsingDotNet8.Controllers.EnrollmentController",
+    "Method": "DeleteEnrollment",
+    "RelativePath": "api/Enrollment/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudUsingDotNet8.Controllers.StudentController",
+    "Method": "GetAllStudents",
+    "RelativePath": "api/Student",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudUsingDotNet8.Controllers.StudentController",
+    "Method": "CreateStudent",
+    "RelativePath": "api/Student",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentViewModel",
+        "Type": "Cruds.ViewModel.StudentViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudUsingDotNet8.Controllers.StudentController",
+    "Method": "GetStudentById",
+    "RelativePath": "api/Student/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudUsingDotNet8.Controllers.StudentController",
+    "Method": "UpdateStudent",
+    "RelativePath": "api/Student/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "studentViewModel",
+        "Type": "Cruds.ViewModel.StudentViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudUsingDotNet8.Controllers.StudentController",
+    "Method": "DeleteStudent",
+    "RelativePath": "api/Student/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,17 @@
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\IService\bin\Debug\net8.0\IService.deps.json
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\IService\bin\Debug\net8.0\IService.runtimeconfig.json
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\IService\bin\Debug\net8.0\IService.dll
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\IService\bin\Debug\net8.0\IService.pdb
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\IService\obj\Debug\net8.0\IService.csproj.AssemblyReference.cache
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\IService\obj\Debug\net8.0\IService.GeneratedMSBuildEditorConfig.editorconfig
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\IService\obj\Debug\net8.0\IService.AssemblyInfoInputs.cache
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\IService\obj\Debug\net8.0\IService.AssemblyInfo.cs
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\IService\obj\Debug\net8.0\IService.csproj.CoreCompileInputs.cache
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\IService\obj\Debug\net8.0\IService.dll
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\IService\obj\Debug\net8.0\refint\IService.dll
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\IService\obj\Debug\net8.0\IService.pdb
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\IService\obj\Debug\net8.0\IService.genruntimeconfig.cache
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\IService\obj\Debug\net8.0\ref\IService.dll
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\IService\bin\Debug\net8.0\Domain.dll
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\IService\bin\Debug\net8.0\Domain.pdb
+G:\.NET 2024\Must Folder\CrudUsingDotNet8\IService\obj\Debug\net8.0\IService.csproj.Up2Date
